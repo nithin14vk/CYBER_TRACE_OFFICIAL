@@ -1,0 +1,5 @@
+# CyberTrace: Digital Exposure Lab - Backend Dependencies
+fastapi>=0.110.0
+uvicorn[standard]>=0.28.0
+pydantic>=2.6.0
+starlette>=0.36.0
